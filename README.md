@@ -1,2 +1,3 @@
 # reactnative-app2
-react-native app2
+npm i
+npx react-native run-android
